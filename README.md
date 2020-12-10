@@ -1,0 +1,2 @@
+# djangtest
+Practice of Django
